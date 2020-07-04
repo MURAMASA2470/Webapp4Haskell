@@ -1,7 +1,7 @@
 name:                haskell-webapp
 version:             0.1.0.0
 github:              "MURAMASA2470/haskell-webapp"
-license:             BSD3
+license:             MIT
 author:              "Kimura Keisuke"
 maintainer:          "keisuke226214@yahoo.co.jp"
 copyright:           "2020 Kimura Keisuke"
