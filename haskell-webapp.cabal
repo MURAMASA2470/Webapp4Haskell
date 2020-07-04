@@ -8,9 +8,9 @@ cabal-version: 1.12
 
 name:           haskell-webapp
 version:        0.1.0.0
-description:    Please see the README on GitHub at <https://github.com/githubuser/haskell-webapp#readme>
-homepage:       https://github.com/githubuser/haskell-webapp#readme
-bug-reports:    https://github.com/githubuser/haskell-webapp/issues
+description:    Please see the README on GitHub at <https://github.com/MURAMASA2470/haskell-webapp#readme>
+homepage:       https://github.com/MURAMASA2470/haskell-webapp#readme
+bug-reports:    https://github.com/MURAMASA2470/haskell-webapp/issues
 author:         Author name here
 maintainer:     example@example.com
 copyright:      2020 Author name here
@@ -23,7 +23,7 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/githubuser/haskell-webapp
+  location: https://github.com/MURAMASA2470/haskell-webapp
 
 library
   exposed-modules:
