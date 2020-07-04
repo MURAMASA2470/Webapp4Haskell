@@ -34,6 +34,9 @@ library
       src
   build-depends:
       base >=4.7 && <5
+    , wai
+    , warp
+    , http-types
   default-language: Haskell2010
 
 executable haskell-webapp-exe
@@ -46,6 +49,9 @@ executable haskell-webapp-exe
   build-depends:
       base >=4.7 && <5
     , haskell-webapp
+    , wai
+    , warp
+    , http-types
   default-language: Haskell2010
 
 test-suite haskell-webapp-test
@@ -59,4 +65,7 @@ test-suite haskell-webapp-test
   build-depends:
       base >=4.7 && <5
     , haskell-webapp
+    , wai
+    , warp
+    , http-types
   default-language: Haskell2010
