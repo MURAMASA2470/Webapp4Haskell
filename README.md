@@ -29,4 +29,4 @@ stack run
 ## License
 Copyright (c) Kimura Keisuke. All rights reserved.
 
-Licensed under the [MIT](LICENSE.txt) license.
+Licensed under the [MIT](LICENSE) license.
